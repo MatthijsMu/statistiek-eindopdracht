@@ -21,7 +21,7 @@ a simulation of the null-distribution and the strong conclusion that residual va
 
 ## What to Find in the Repository
  - The assignment is available both in **Dutch** as *Statistiek Opdracht (Dutch).pdf* and in **English** as *Statistics Assigment (English).pdf*. Note that DeepL did a poor job a translating the formulas from the original Dutch assignment statement, for that I recommend just looking up the formula in the original.
- - 
+   
  - All scripts I used for this project were put naively into **one big** .R file, *R_Script_Regression_Analysis.R*. Had I known that I would at a later time want to display this project, 
 I would certainly have thought better of separating unrelated scripts into separate files. Refactoring this rather old project is however not my top priority right now. I would
 rather spend my time learning some new interesting topics in regression analysis and general statistics.
