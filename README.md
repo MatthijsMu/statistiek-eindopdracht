@@ -1,4 +1,4 @@
-# Statistiek Eindopdracht (= "Statistics Final Project ")
+# Regression Analysis project (Final project for the course "Statistiek")
 
 ## Short Overview of the Project
  (Project Report and R script written in Dutch) A project about regression analysis I did as part of the course Statistics.
