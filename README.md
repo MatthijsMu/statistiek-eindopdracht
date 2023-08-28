@@ -2,7 +2,7 @@
 
 ## Short Overview of the Project
  (Project Report and R script written in Dutch) A project about regression analysis I did as part of the course Statistics.
- It is an analysis of the top 52 companies from the forbes500 dataset of 1986, which reports of the 52 largest companies of the world their:
+ It is an analysis of a subset of 52 datapoints from the forbes500 dataset of 1986. Each datapoint consists of 4 "features":
   - sector (categorical, 4 levels: "Finance", "Energy", "Manufacturing", "Retail")
   - assets value
   - annual sales
