@@ -1,0 +1,48 @@
+\babel@toc {dutch}{}\relax 
+\contentsline {chapter}{\numberline {1}Inleiding}{3}{}%
+\contentsline {section}{\numberline {1.1}Dataset}{3}{}%
+\contentsline {subsection}{\numberline {1.1.1}Ori\"enterend Verdelingsonderzoek}{4}{}%
+\contentsline {subsection}{\numberline {1.1.2}Voorbehoud}{6}{}%
+\contentsline {section}{\numberline {1.2}Model}{9}{}%
+\contentsline {section}{\numberline {1.3}Onderzoeksvragen}{10}{}%
+\contentsline {section}{\numberline {1.4}Constanten}{11}{}%
+\contentsline {chapter}{\numberline {2}$\qopname \relax o{log}$-transformatie voor financi\"ele data}{12}{}%
+\contentsline {section}{\numberline {2.1}Ecomische motivatie voor $\qopname \relax o{log}$-transformatie}{12}{}%
+\contentsline {section}{\numberline {2.2}Statistische motivatie voor de $\qopname \relax o{log}$-transformatie}{13}{}%
+\contentsline {subsection}{\numberline {2.2.1}Heteroskedasticiteit}{13}{}%
+\contentsline {subsection}{\numberline {2.2.2}Kolgomorov-Smirnov-toets op normaliteit van logassets, logmarketval en logsales}{13}{}%
+\contentsline {chapter}{\numberline {3}Theorie over Lineaire modellen en Modelselectie}{16}{}%
+\contentsline {section}{\numberline {3.1}Schatten}{16}{}%
+\contentsline {section}{\numberline {3.2}Restricted Models}{16}{}%
+\contentsline {subsection}{\numberline {3.2.1}Onterecht Restricted}{17}{}%
+\contentsline {subsection}{\numberline {3.2.2}Onterecht te Uitgebreid}{18}{}%
+\contentsline {subsection}{\numberline {3.2.3}Niet-geneste modellen}{18}{}%
+\contentsline {section}{\numberline {3.3}Toetsen voor modeluitbreidingen en -restricties}{18}{}%
+\contentsline {subsection}{\numberline {3.3.1}$t$-toets}{19}{}%
+\contentsline {subsection}{\numberline {3.3.2}$F$-toets}{19}{}%
+\contentsline {chapter}{\numberline {4}Basale Model en Uitbreidingen met Interactietermen}{21}{}%
+\contentsline {section}{\numberline {4.1}Basale Model}{21}{}%
+\contentsline {subsection}{\numberline {4.1.1}Individuele significantie van continue variabelen}{22}{}%
+\contentsline {subsection}{\numberline {4.1.2}$F$-statistiek in toets tegen intercept-model}{22}{}%
+\contentsline {subsection}{\numberline {4.1.3}$F$-toets tegen model zonder sector}{23}{}%
+\contentsline {section}{\numberline {4.2}Effect van logassets per sector}{23}{}%
+\contentsline {section}{\numberline {4.3}Effect van logmarketval per sector}{25}{}%
+\contentsline {section}{\numberline {4.4}Effect van logassets en logmarketval per sector}{26}{}%
+\contentsline {section}{\numberline {4.5}Het gevaar in de default $t$-toetsen}{28}{}%
+\contentsline {section}{\numberline {4.6}Conclusie}{30}{}%
+\contentsline {section}{\numberline {4.7}R Tip: ANOVA-Table}{30}{}%
+\contentsline {chapter}{\numberline {5}Ongetransformeerde model en variantie-analyse}{31}{}%
+\contentsline {section}{\numberline {5.1}Ongetransformeerde Model}{31}{}%
+\contentsline {section}{\numberline {5.2}Varianties per sector}{32}{}%
+\contentsline {section}{\numberline {5.3}Kwantitatieve motivatie: niet-normale residuen}{32}{}%
+\contentsline {section}{\numberline {5.4}Economische interpretatie}{34}{}%
+\contentsline {section}{\numberline {5.5}Herformulering Model}{34}{}%
+\contentsline {section}{\numberline {5.6}Toetsen}{34}{}%
+\contentsline {section}{\numberline {5.7}Simulatie van $T$ en conclusie}{36}{}%
+\contentsline {section}{\numberline {5.8}Problemen voor het schatten?}{37}{}%
+\contentsline {section}{\numberline {5.9}Welke sector heeft de grootste variantie?}{37}{}%
+\contentsline {section}{\numberline {5.10}Waarom deze toets eigenlijk niet valide is}{38}{}%
+\contentsline {chapter}{\numberline {6}Assimileren van de levels van sector in \ref {uitbreiding logmarketval:sector}}{40}{}%
+\contentsline {section}{\numberline {6.1}Rechtvaardiging van het idee}{40}{}%
+\contentsline {section}{\numberline {6.2}Implementatie}{41}{}%
+\contentsline {chapter}{\numberline {7}Conclusie}{43}{}%

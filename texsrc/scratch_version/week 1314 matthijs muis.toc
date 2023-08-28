@@ -1,0 +1,22 @@
+\babel@toc {dutch}{}\relax 
+\contentsline {chapter}{\numberline {1}Inleiding}{2}{}%
+\contentsline {section}{\numberline {1.1}Dataset}{2}{}%
+\contentsline {subsection}{\numberline {1.1.1}Ori\"enterend Verdelingsonderzoek}{3}{}%
+\contentsline {subsection}{\numberline {1.1.2}Voorbehoud}{4}{}%
+\contentsline {section}{\numberline {1.2}Model}{4}{}%
+\contentsline {section}{\numberline {1.3}Onderzoeksvragen}{5}{}%
+\contentsline {chapter}{\numberline {2}$\qopname \relax o{log}$-transformatie voor financi\"ele data}{6}{}%
+\contentsline {section}{\numberline {2.1}Ecomische motivatie voor $\qopname \relax o{log}$-transformatie}{6}{}%
+\contentsline {section}{\numberline {2.2}Statistische motivatie voor de $\qopname \relax o{log}$-transformatie}{7}{}%
+\contentsline {subsection}{\numberline {2.2.1}Heteroskedasticiteit}{7}{}%
+\contentsline {subsection}{\numberline {2.2.2}Kolgomorov-Smirnov-toets op normaliteit van logassets, logmarketval en logsales}{7}{}%
+\contentsline {chapter}{\numberline {3}Een Na\"ief Model en Uitbreidingen}{10}{}%
+\contentsline {section}{\numberline {3.1}Basale Model}{10}{}%
+\contentsline {section}{\numberline {3.2}Effect van \relax \unhbox \voidb@x \hbox {}\bgroup \obeylines \def \GenericInfo { }{LaTeX Info: Active EOL character found while output routine is active \MessageBreak This may be a bug in a package file you are using\par } {\global \let \egroup \GenericError { }{LaTeX Error: \relax \unhbox \voidb@x \hbox {}\bgroup \obeylines \def \GenericInfo { }{LaTeX Info: Active EOL character found while output routine is active \MessageBreak This may be a bug in a package file you are using\par } {\global \let \egroup \GenericError { }{LaTeX Error: \verb ended by end of line}{See the LaTeX manual or LaTeX Companion for explanation.}{Try typing <return> to proceed.\MessageBreak If that doesn't work, type X <return> to quit.}}\let \@makeother \ \\\{\}\$\&\#\^\_\%\~\"\normalfont \ttfamily \hyphenchar \font \m@ne \let \do@noligs \`\<\>\,\'\-\let \do@noligs \`\<\>\,\'\-\language \l@nohyphenation \let \reserved@d = *\def \par }{See the LaTeX manual or LaTeX Companion for explanation.}{Try typing <return> to proceed.\MessageBreak If that doesn't work, type X <return> to quit.}}\let \catcode `\ 12\relax \\\{\}\$\&\#\^\_\%\~\"\normalfont \ttfamily \hyphenchar \font \m@ne \let \catcode `\`\active \begingroup \lccode `\~`\`\relax \lowercase {\endgroup \def ~{\unhbox \voidb@x \kern \z@ \char `\`}}\:\,\'\-\let \catcode `\`\active \begingroup \lccode `\~`\`\relax \lowercase {\endgroup \def ~{\unhbox \voidb@x \kern \z@ \char `\`}}\:\,\'\-\language \l@nohyphenation \let \reserved@d = *\def \par }{11}{}%
+\contentsline {chapter}{\numberline {4}Theorie over Lineaire modellen en Modelselectie}{12}{}%
+\contentsline {section}{\numberline {4.1}Schatten}{12}{}%
+\contentsline {section}{\numberline {4.2}Restricted Models}{12}{}%
+\contentsline {subsection}{\numberline {4.2.1}Onterecht Restricted}{13}{}%
+\contentsline {subsection}{\numberline {4.2.2}Onterecht te Uitgebreid}{13}{}%
+\contentsline {section}{\numberline {4.3}Toetsen voor modeluitbreidingen en -restricties}{14}{}%
+\contentsline {chapter}{\numberline {5}Vergelijking van de Modellen}{15}{}%
