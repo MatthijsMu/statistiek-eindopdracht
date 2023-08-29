@@ -7,6 +7,7 @@
   - assets value
   - annual sales
   - market value
+
 The goal is to explain the market value with assets, sales and sector using a multiple linear regression (MLR) model. We are free to include
 or exclude any of the given covariates and create interactions. We need, however, to motivate modelling decisions by showing test results or
 relevant statistics. So, many $t$-tests, $F$-tests and ANOVA-tables follow. I also went into some model selection theory, showing what biases
